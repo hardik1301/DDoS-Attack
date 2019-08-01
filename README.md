@@ -1,0 +1,2 @@
+# DDoS-Attack
+DDOS attack stands for Distributed Denial of Service, and it is one of the most common ways of DOS (Denial of Service) attack. In DOS attack multiple queries are sent from one host to the destination IP address to crash the server where as in DDOS attack there are multiple hosts that attack on the same server and flood it with multiple queries to crash it down.This Project basically shows the effect of increasing the number of hidden layers towards accuracy of a model.
